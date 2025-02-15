@@ -50,5 +50,9 @@
     div#formulario {
         font-size: 1.2em;
     }
+
+    form > a.botao {
+        padding-top: 5px;
+    }
     
 }
